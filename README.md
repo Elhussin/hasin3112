@@ -2,7 +2,7 @@
 - 👀 I’m interested in html, cs, php, javaScript, bootStrab ,React ,python 
 - 🌱 I’m currently learning Data Anllizitin , React , 
 - 💞️ I’m looking to collaborate on FullSatk
-- 📫 How to reach me on Twiter:  @Hasintaha ,Email: Hasin@3112@gmail.com
+- 📫 How to reach me on Twiter:  @Hasintaha ,Email: Hasin3112@gmail.com
 
 
 <!---
